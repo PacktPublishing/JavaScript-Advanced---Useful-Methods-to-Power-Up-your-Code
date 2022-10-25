@@ -44,3 +44,7 @@ This course has the following software requirements:<br/>
 
 * [Cracking the Coding Interview - Data Structures and Algorithms [Video]](https://www.packtpub.com/web-development/cracking-coding-interview-data-structures-and-algorithms-video?utm_source=github&utm_medium=repository&utm_campaign=9781838554071)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838826987">https://packt.link/free-ebook/9781838826987 </a> </p>
